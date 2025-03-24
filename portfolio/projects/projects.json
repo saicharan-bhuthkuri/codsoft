@@ -1,0 +1,132 @@
+[
+ {
+    "name": "portfolio",
+    "desc": "Personal Portfolio Website built to showcase my work, skills, and projects",
+    "image": "portfolio1",
+    "category": "basicweb",
+    "links": {
+      "view": "https://sai-charan-portfolio.netlify.app/",
+      "code": "https://github.com/saicharan-bhuthkuri/portfolio"
+    }
+  },
+  {
+    "name": "Wishes",
+    "desc": "A web app to share wishes with friends and family on special occasions.",
+    "image": "wishes",
+    "category": "basicweb",
+    "links": {
+      "view": "https://sai-wishes.netlify.app/",
+      "code": "https://github.com/saicharan-bhuthkuri/Wishes"
+    }
+  },
+  {
+    "name": "Glassmorphic_Registration_Form",
+    "desc": "A beautiful glassmorphic registration form UI using HTML and CSS.",
+    "image": "Glassmorphic_Registration_Form",
+    "category": "frontend",
+    "links": {
+      "view": "https://glassmorphic-registration-form.netlify.app/",
+      "code": "https://github.com/saicharan-bhuthkuri/Glassmorphic_Registration_Form"
+    }
+  },
+  {
+    "name": "SaiOrganix",
+    "desc": "Website for SaiOrganix, focusing on organic products and services.",
+    "image": "saiorganix",
+    "category": "business",
+    "links": {
+      "view": "https://saiorganix.netlify.app/",
+      "code": "https://github.com/saicharan-bhuthkuri/SaiOrganix"
+    }
+  },
+  {
+    "name": "login-page",
+    "desc": "A simple login page with modern design.",
+    "image": "login-page",
+    "category": "frontend",
+    "links": {
+      "view": "https://charan-login-page.netlify.app/",
+      "code": "https://github.com/saicharan-bhuthkuri/login-page"
+    }
+  },
+  {
+    "name": "miaow-trinity",
+    "desc": "AI tool for detecting and blocking harmful content on social media.",
+    "image": "miaow-trinity",
+    "category": "frontend",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/saicharan-bhuthkuri/miaow-trinity"
+    }
+  },
+  {
+    "name": "website-SaiElite",
+    "desc": "HTML based website for SaiElite brand.",
+    "image": "website-SaiElite",
+    "category": "business",
+    "links": {
+      "view": "https://saielite.netlify.app/",
+      "code": "https://github.com/saicharan-bhuthkuri/website-SaiElite"
+    }
+  },
+  {
+    "name": "Animation-login-page",
+    "desc": "Animated login page for practice and design showcase.",
+    "image": "Animation-login-page",
+    "category": "basicweb",
+    "links": {
+      "view": "https://animatation-login-page.netlify.app/",
+      "code": "https://github.com/saicharan-bhuthkuri/Animation-login-page"
+    }
+  },
+  {
+    "name": "animated-flower",
+    "desc": "CSS-only animated flower design.",
+    "image": "animated-flower",
+    "category": "frontend",
+    "links": {
+      "view": "https://animated-flower.netlify.app/",
+      "code": "https://github.com/saicharan-bhuthkuri/animated-flower"
+    }
+  },
+  {
+    "name": "Radial-Menu",
+    "desc": "Glowing animated radial menu using HTML and CSS.",
+    "image": "Radial-Menu",
+    "category": "frontend",
+    "links": {
+      "view": "https://charan-radial-menu.netlify.app/",
+      "code": "https://github.com/saicharan-bhuthkuri/Radial-Menu"
+    }
+  },
+  {
+    "name": "friendshipday",
+    "desc": "HTML page for celebrating friendship day.",
+    "image": "friendshipday",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/saicharan-bhuthkuri/friendshipday"
+    }
+  },
+  {
+    "name": "impress",
+    "desc": "JavaScript based web experiments and creative work.",
+    "image": "impress",
+    "category": "javascript",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/saicharan-bhuthkuri/impress"
+    }
+  },
+  {
+    "name": "to-do-list",
+    "desc": "JavaScript based web experiments and creative work.",
+    "image": "to-do-list",
+    "category": "javascript",
+    "links": {
+      "view": "https://to-do-list-io.netlify.app/",
+      "code": "https://github.com/saicharan-bhuthkuri/To-Do-List"
+    }
+  }
+]
