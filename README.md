@@ -70,7 +70,7 @@ You can view the live demos of the projects here:
 
 If you have any questions or would like to connect, feel free to reach out:  
 
-📧 *Email:* [saicharanbhuthkuri468@gmail](mailto:saicharanbhuthkuri468@gmail)  
+📧 *Email:* [saicharanbhuthkuri468@gmail.com](mailto:saicharanbhuthkuri468@gmail.com)  
 🔗 *GitHub:* [Saicharan Bhuthkuri](https://github.com/saicharan-bhuthkuri)  
 💼 *LinkedIn:* [saicharan-bhuthkuri](https://in.linkedin.com/in/saicharan-bhuthkuri)  
 🌐 *Portfolio:* [Saivortex](https://your-portfolio-link.com)  
